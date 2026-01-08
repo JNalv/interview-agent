@@ -1,0 +1,9 @@
+gradio>=6.2.0
+anthropic>=0.40.0
+faster-whisper
+sounddevice
+numpy
+pypdf
+python-docx
+tiktoken
+
